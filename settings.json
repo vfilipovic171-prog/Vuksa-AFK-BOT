@@ -6,10 +6,10 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sweetcandy-smp..aternos.me",
+    "ip": "sweetcandy-smp.aternos.me",
     "port": 55975,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Vuksa!",
         "I like to play Minecraft!"
       ]
     },
